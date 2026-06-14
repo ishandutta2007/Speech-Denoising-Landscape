@@ -87,6 +87,18 @@ Join the conversation and explore real-world use cases.
 ## 🤝 Support & Contributing
 Contributions are what make the open-source community such an amazing place. If you have a model or sample to share, please send a Pull Request!
 
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FSpeech-Denoising-Landscape&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Speech-Denoising-Landscape&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Speech-Denoising-Landscape&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Speech-Denoising-Landscape&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
+
 ### Support the Work:
 * ☕ [PAYPAL](https://www.paypal.me/ishandutta2007)
 * ₿ [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
