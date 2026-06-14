@@ -8,6 +8,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Speech-Denoising-Landscape?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Speech-Denoising-Landscape/network)
 [![GitHub license](https://img.shields.io/github/license/ishandutta2007/Speech-Denoising-Landscape?style=for-the-badge&color=green)](https://github.com/ishandutta2007/Speech-Denoising-Landscape/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
 
 </div>
 
