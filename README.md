@@ -65,6 +65,7 @@ Production-ready audio enhancement services for creators and developers.
 | **Cleanvoice.ai** | 30 mins total | **Sub:** $11+ | Removing filler words |
 | **Auphonic** | 2 hours/month | **Recur:** $11/mo | Automated post-production |
 | **Dolby.io** | $50 credit | **PAYG:** ~$0.05/min | Developers / API |
+| **[Video Noise Remover](https://videonoiseremover.com/)** | Files up to 10 mins | **Pro:** $9.9/mo | Speech in videos |
 
 ---
 
